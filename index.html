@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Welcome | Marble Rush Game</title>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="forms-container">
+        <div class="signin-signup">
+          <form action="#" class="sign-in-form">
+            <!-- 1st page -->
+            <h2 class="title">Welcome To Marble Rush</h2>
+            <p>
+              Long time no see ! Where have you been ?? good to have you here
+              with me ! lets have fun!
+            </p>
+          </form>
+          <form action="#" class="sign-up-form">
+            <!-- 2nd page -->
+            <h2 class="title">LET’S SIGN YOU IN!</h2>
+            <div class="input-field">
+              <i class="fas fa-user"></i>
+              <input type="text" placeholder="Username" id="nameInput" />
+            </div>
+
+            <div class="input-field">
+              <i class="fas fa-user"></i>
+              <input type="text" placeholder="Nickname" id="nicknameInput" />
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <div class="panels-container">
+        <div class="panel left-panel">
+          <div class="content">
+            <!-- 1st toggle -->
+            <h3>New here ?</h3>
+            <p>
+              Welcome! Join our vibrant community—unlock opportunities, connect,
+              learn, and grow. Sign up now to start an enriching journey
+              together
+            </p>
+            <button class="btn transparent" id="sign-up-btn">Sign up</button>
+          </div>
+        </div>
+        <div class="panel right-panel">
+          <div class="content">
+            <!-- 2nd toggle -->
+            <h3></h3>
+            <p>
+              You are almost there ! just another step and the you can start
+              your game
+            </p>
+            <button
+              class="btn transparent"
+              id="next-page"
+              onclick="getPlayerInfo()"
+            >
+              Next
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
