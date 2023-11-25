@@ -17,7 +17,7 @@ the game is not mobile responsive .after multiple tries also and approacing diff
 - https://youtu.be/tD6sAKa6AKI?si=D4Y1BmTt3MKDRAVK
 - https://youtu.be/IqHSZF7NQmQ?si=sS562oo_gcUhOHKW
 
-  **Songs links reference:**
+**Songs links reference:**
 - https://mixkit.co/
 
 **Other Link**
@@ -32,22 +32,22 @@ the game is not mobile responsive .after multiple tries also and approacing diff
 - https://fonts.google.com/
 - https://www.w3schools.com/
 
-**DEPLOYED LINK**
+**DEPLOYED LINK**    
 https://marble-rush.netlify.app/
 https://ananya1812.github.io/Marble-Rush/
 
-**REPO LINK:**
+**REPO LINK:**        
 https://github.com/Ananya1812/Marble-Rush
 
-**LOOM VIDEO LINK**
+**LOOM VIDEO LINK**    
 https://www.loom.com/share/5b193296f8094dd98b49a0114ba3da70?sid=3d2e79a9-9357-4388-866b-dd71f7297d56
 
-**FIGMA LINK**
+**FIGMA LINK**     
 -Desktop: https://www.figma.com/proto/7VTNCUm6KlGoVtAUkDfFNn/MARBLE-RUSH-(DT)?page-id=0%3A1&type=design&node-id=43-220&viewport=89%2C303%2C0.14&t=WwLw9U8G94BKserD-1&scaling=min-zoom&starting-point-node-id=43%3A220&mode=design
 
 -Mobile: https://www.figma.com/proto/iKZcyX3z8zL1EnurTeW2B2/MARBLE-RUSH-SP?page-id=0%3A1&type=design&node-id=0-31&viewport=505%2C344%2C0.33&t=8LOmAq03nMVwyMBV-1&scaling=scale-down&mode=design
 
-**PPT LINK**
+**PPT LINK**       
 https://1drv.ms/p/s!AvN8aznh3pyFjCQrRpCffr51qJC2?e=onZjhM
 
 THANK YOU !
