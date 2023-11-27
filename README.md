@@ -33,7 +33,7 @@ the game is not mobile responsive .after multiple tries also and approacing diff
 - https://www.w3schools.com/
 
 **DEPLOYED LINK**    
-https://marble-rush.netlify.app/
+https://marble-rush.netlify.app/     
 https://ananya1812.github.io/Marble-Rush/
 
 **REPO LINK:**        
